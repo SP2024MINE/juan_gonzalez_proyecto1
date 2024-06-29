@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "poetry add numpy pandas scikit-learn"
-version = "git add ."
+name = "juan_gonzalez_proyecto1"
+version = "1"
 description = ""
 authors = ["juangonzalez <juank.gonzalezr1@gmail.com>"]
 readme = "README.md"
