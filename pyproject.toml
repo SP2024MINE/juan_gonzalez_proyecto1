@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "juang"
+version = "1"
+description = "poetry"
+authors = ["juangonzalez <juank.gonzalezr1@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^ 3.11"
+pandas = "^2.2.2"
+ipykernel = "^6.29.5"
+sodapy = "^2.2.0"
+scikit-learn = "^1.5.1"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
