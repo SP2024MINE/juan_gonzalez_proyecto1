@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "juang"
-version = "1"
-description = "poetry"
+version = "0.1.0"
+description = "poetry mi primer proyecto"
 authors = ["juangonzalez <juank.gonzalezr1@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^ 3.11"
+python = ">= 3.11"
 pandas = "^2.2.2"
 ipykernel = "^6.29.5"
 sodapy = "^2.2.0"
