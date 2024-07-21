@@ -14,6 +14,9 @@ sodapy = "^2.2.0"
 scikit-learn = "^1.5.1"
 jupyter = "^1.0.0"
 python-dotenv = "^1.0.1"
+streamlit = "^1.36.0"
+matplotlib = "^3.9.1"
+seaborn = "^0.13.2"
 
 
 [build-system]
